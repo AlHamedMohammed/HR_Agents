@@ -1,5 +1,5 @@
 ---
-HR Operations & Workforce Management
+HR Operations 
 ---
 ---
 
