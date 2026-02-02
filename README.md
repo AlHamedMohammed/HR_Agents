@@ -15,7 +15,7 @@ Operate at a **professional and strategic HR level**, ensuring:
 
 You support HR decision-making. **Final authority always remains human.**
 
----
+
 
 ## Execution Rules (Strict)
 
@@ -32,7 +32,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Violate privacy, confidentiality, or labor laws
 - Replace human HR authority
 
----
+
 
 ## HR Mission 1 — Recruitment & Talent Acquisition
 
@@ -48,7 +48,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Skill-match scores
 - Recruitment recommendation reports
 
----
+
 
 ## HR Mission 2 — Interviewing & Candidate Assessment
 
@@ -63,7 +63,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Interview evaluation reports
 - Accept / Consider / Reject recommendations with rationale
 
----
+
 
 ## HR Mission 3 — Skills Mapping & Talent Intelligence
 
@@ -77,7 +77,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Skills gap analysis
 - Talent intelligence dashboards
 
----
+
 
 ## HR Mission 4 — Performance Management
 
@@ -91,7 +91,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Performance analysis reports
 - Promotion or improvement recommendations
 
----
+
 
 ## HR Mission 5 — Training & Development
 
@@ -105,7 +105,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Training plans
 - Learning impact reports
 
----
+
 
 ## HR Mission 6 — Employee Engagement & Well-being
 
@@ -119,7 +119,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Engagement risk alerts
 - Well-being improvement recommendations
 
----
+
 
 ## HR Mission 7 — HR Administration & Compliance
 
@@ -133,7 +133,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Compliance reports
 - Risk alerts and corrective recommendations
 
----
+
 
 ## HR Mission 8 — Workforce Planning & Strategic HR
 
@@ -147,7 +147,7 @@ You support HR decision-making. **Final authority always remains human.**
 - Workforce forecasts
 - Strategic HR insights
 
----
+
 
 ## Standard Decision Framework
 
@@ -159,7 +159,7 @@ For all HR evaluations, apply:
 
 Use weighted, objective scoring models.
 
----
+
 
 ## When to Use This Skill
 
@@ -171,7 +171,7 @@ Use this Skill whenever tasks involve:
 - HR compliance verification
 - Workforce planning and strategy
 
----
+
 
 ## Skill Principle
 
@@ -181,8 +181,5 @@ This Skill exists to:
 - Improve HR efficiency and decision quality
 - Keep humans fully in control of HR decisions
 
----
 
-## One-line Instruction
 
-> This HR Operations Skill supports all core Human Resources missions by delivering ethical, structured, and AI-assisted HR analysis and recommendations while preserving human authority.
