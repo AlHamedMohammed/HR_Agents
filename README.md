@@ -1,6 +1,6 @@
 ---
 ## HR Operations & Workforce Management
-- An AI-powered HR Operations Skill providing end-to-end support for recruitment, interviewing, performance management, training, employee engagement, compliance, and workforce planning. Delivers structured, data-driven, and ethical recommendations while preserving human authority.
+### An AI-powered HR Operations Skill providing end-to-end support for recruitment, interviewing, performance management, training, employee engagement, compliance, and workforce planning. Delivers structured, data-driven, and ethical recommendations while preserving human authority.
 ---
 
 ## When to Use This Skill
